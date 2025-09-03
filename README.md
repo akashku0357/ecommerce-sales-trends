@@ -32,10 +32,10 @@ Analyze Indian e-commerce sales to identify:
      - Brand revenue
 
 3. **Visual Insights (Screenshots)**
-   - Top Products: ![Top Products](screenshots/1_top_products.png)
-   - Monthly Trends: ![Monthly Trends](screenshots/2_monthly_trend.png)
-   - Seasonal Revenue: ![Seasonal Revenue](screenshots/3_seasonal_revenue.png)
-   - Brand Revenue: ![Brand Revenue](screenshots/4_brand_revenue.png)
+   - Top Products: ![Top Products](screenshots/top_products.png)
+   - Monthly Trends: ![Monthly Trends](screenshots/monthly_trend.png)
+   - Seasonal Revenue: ![Seasonal Revenue](screenshots/seasonal_revenue.png)
+   - Brand Revenue: ![Brand Revenue](screenshots/brand_revenue.png)
 
 ## 📈 Key Insights
 - **Top 5 Products:** Olive Oil - Extra Virgin - Pack 3, Olive Oil - Extra Virgin - Pack 2, Olive Oil - Extra Virgin, Toothpaste - Colgate, Toothpaste - Colgate - Pack 3
