@@ -19,13 +19,13 @@ Analyze Indian e-commerce sales to identify:
 1. **Data Cleaning & Pivot Tables (Excel)**
    - Removed duplicates & missing values
    - Added `Revenue = Quantity * DiscountPrice`
-   - Created Month & Season columns
+   - Created Month and Season columns
    - Pivot tables created for top products, monthly trends, Seasonal revenue
 
 2. **SQL Analysis**
    - Table creation: `sql/create_table.sql`
-   - Data insertion: `sql/2_insert_data.sql`
-   - Analysis queries: `sql/3_queries.sql`
+   - Data insertion: `sql/insert_data.sql`
+   - Analysis queries: `sql_queries/queries.sql`
      - Top 10 products by revenue
      - Monthly revenue trend
      - Seasonal revenue trend
