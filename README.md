@@ -15,6 +15,9 @@ Analyze Indian e-commerce sales to identify:
 - File: ECOMMERCE_DATASET.csv
 - Columns: InvoiceDate, Month, Season, Product Name, Brand, Price, Discount Price, Quantity, Revenue
 
+  ## 📊 Excel Analysis
+- [Pivot Tables & Charts](pivot_tables.xlsx)
+
 ## 🔎 Process
 1. **Data Cleaning & Pivot Tables (Excel)**
    - Removed duplicates & missing values
@@ -23,8 +26,8 @@ Analyze Indian e-commerce sales to identify:
    - Pivot tables created for top products, monthly trends, Seasonal revenue
 
 2. **SQL Analysis**
-   - Table creation: `sql/create_table.sql`
-   - Data insertion: `sql/insert_data.sql`
+   - Table creation: `sql_queries/create_table.sql`
+   - Data insertion: `sql_queries/insert_data.sql`
    - Analysis queries: `sql_queries/queries.sql`
      - Top 10 products by revenue
      - Monthly revenue trend
