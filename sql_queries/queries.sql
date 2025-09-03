@@ -1,4 +1,4 @@
--- Top 5 Products by Revenue
+-- Top 10 Products by Revenue
 
 SELECT ProductName,
 SUM(Quantity*DiscountPrice) AS Revenue
