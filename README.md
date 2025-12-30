@@ -45,9 +45,3 @@ Analyze Indian e-commerce sales to identify:
 - **Peak Month:** December
 - **Peak Season:** Festive
 - **Top Brand:** BORGES
-
-## ✅ Outcome
-- GitHub-ready project
-- Dataset + Excel + SQL + Screenshots → complete analysis proof
-- Actionable business insights included
-
